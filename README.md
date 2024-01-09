@@ -1,2 +1,2 @@
-# node-next-server
-一个基于nodejs和nextjs搭建的web服务
+# node-server
+一个基于nodejs搭建的web服务
